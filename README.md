@@ -16,7 +16,7 @@ The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews 
 
 - *Figures*: In this folder are located the figures for the SLR. 
 
-- *Python Scripts*: It contains the designed algorithms to extract the information of the Crossref API. 
+- *Python Scripts*: It contains the designed algorithms to extract the information of the Crossref API in terms of publications per years and top cited authors. 
 
 ## Python Scripts
 
