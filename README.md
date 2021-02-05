@@ -1,6 +1,6 @@
 # Dataset for the systematic review on Single-Board Computers (SBCs)
 
-![Alt text](SBCReview/img/Fig3.png?raw=true "Optional Title")
+![Alt text](/SBCReview/img/Fig3.png?raw=true "Optional Title")
 
 **Description:** These are the supplementary materials and dataset for the Systematic Literature Review (SLR) on SBCs in engineering and computer science education. 
 
