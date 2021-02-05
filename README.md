@@ -1,6 +1,6 @@
 # Dataset for the systematic review on Single-Board Computers (SBCs)
 
-![Alt text](/SBCReview/img/Fig3.png?raw=true "Optional Title")
+<img src="https://raw.githubusercontent.com/Uniminutoarduino/SBCReview/main/img/Fig3.png">
 
 **Description:** These are the supplementary materials and dataset for the Systematic Literature Review (SLR) on SBCs in engineering and computer science education. 
 
