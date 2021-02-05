@@ -1,3 +1,3 @@
-# Repo info on Single-Board Computers
+# Dataset for the systematic review on Single-Board Computers (SBCs)
 
-Description: Support materials for the article "A systematic literature review on single-board computers in engineering and computer science education"
+Description: These are the supplementary materials and dataset for the Systematic Literature Review (SLR) on SBCs in engineering and computer science education. 
