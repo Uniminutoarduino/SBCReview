@@ -10,7 +10,7 @@ The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews 
 
 ## Files and Folder description
 
-- The folder .RIS(Dataset) contains the .RIS files for the different stages in the review. In the files "Engineering_VillageRIS1-6" are the totality of the identified studies in the review which have been retrieved through the Elsevier tool (Engineering Village). Likewise, the files "SynthesisGroup" and "QualitativeSynthesis" include the selected studies for the stage one (overall analysis-n=155) and for the stage two (qualitative synthesis-n=16) in the SLR. These files are ready to be incorporated in Mendeley. 
+- The folder .RIS(Dataset) contains the .RIS files for the different stages in the review. In the files "Engineering_VillageRIS1-6" are the totality of the identified studies which have been retrieved through the Elsevier tool (Engineering Village). Likewise, the files "SynthesisGroup" and "QualitativeSynthesis" include the selected studies for the stage one (overall analysis-n=155) and for the stage two (qualitative synthesis-n=16) in the SLR. These files are ready to be incorporated in Mendeley. 
 
 - *NVIVO*: This folder contains the coding files for the emerged categories in the stage of qualitative synthesis. 
 
