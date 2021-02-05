@@ -28,7 +28,7 @@ The scripts were degined in Python (V3.8). The following packages are needed in 
 - Matplotlib (v3.3.0 or higher): Comprehensive library for creating static, animated, and interactive visualizations in Python. [https://matplotlib.org/](https://matplotlib.org/)
 - Numpy (v1.20) : fundamental package for scientific computing with Python. [https://numpy.org/](https://numpy.org/)
 
-To run the scripts, include them in a folder and install the previous packages. The scripts need the DOIs of the studies in a txt file (DOIs.txt). The scripts available are the following:
+To run the scripts, include them in a folder and install the previous packages. The scripts need the DOIs of the studies in a txt file (DOIs.txt). The desgined scripts  are the following:
 
 - Years: Extract the number of studies per year.
 - Citations: Extract the number cites per article and it generates a list of the studies with these cites.
