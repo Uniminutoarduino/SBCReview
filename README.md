@@ -1,4 +1,4 @@
-# Dataset for the systematic review on Single-Board Computers (SBCs)
+# Dataset for the systematic literature review on Single-Board Computers (SBCs) in engineering and computer science education
 
 <img src="https://github.com/Uniminutoarduino/SBCReview/blob/main/Figures/Fig6.png?raw=true">
 
