@@ -35,7 +35,7 @@ To run the scripts, include them in a folder and install the previous packages. 
 - Article Type: Extract the type of article in the mentioned categories (journal, conference proceedings, or book chapter).
 
 ## Credit
-This work has been possible to the efforts of the following persons:
+This work has been possible with the efforts of the following persons:
 
 
 Thank you for your interest in this research :)
