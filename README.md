@@ -8,6 +8,8 @@
 
 ## Files and Folder description
 
+- .RISDataset contains the .RIS files for the different stages in the review. In the files "Engineering_VillageRIS1-6" are the totality of the identified studies in the review.
+
 ## NVIVO project (Qualitative Synthesis)
 
 ## Python Scripts
