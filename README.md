@@ -26,7 +26,7 @@ The scripts were designed in Python (v3.8). The following packages are needed in
 
 - Crossrefapi (v1.5.0): Library with functions to iterate through the Crossref API. [https://pypi.org/project/crossrefapi/1.0.3/](https://pypi.org/project/crossrefapi/1.0.3/)
 - Matplotlib (v3.3.0 or higher): Comprehensive library for creating static, animated, and interactive visualizations in Python. [https://matplotlib.org/](https://matplotlib.org/)
-- Numpy (v1.20) : Fundamental package for scientific computing with Python. [https://numpy.org/](https://numpy.org/)
+- Numpy (v1.20) : Fundamental package for scientific computing with Python. [https://pypi.org/project/numpy/](https://pypi.org/project/numpy/)
 
 To run the scripts, include them in a folder and install the previous packages. The scripts need the DOIs of the studies in a txt file (DOIs.txt). The designed scripts are the following:
 
