@@ -1,0 +1,369 @@
+TY  - JOUR
+T1  - Integrating Hardware Prototyping Platforms into the Classroom
+A1  - Al-Masri, Eyhab
+Y1  - 2019///
+KW  - Arduino.
+KW  - Classrooms,
+KW  - Computing,
+KW  - Courses,
+KW  - Curriculum,
+KW  - Education,
+KW  - Project-Based Learning,
+KW  - Raspberry Pi,
+PB  - IEEE
+JF  - Proceedings - Frontiers in Education Conference, FIE
+VL  - 2018-Octob
+SP  - 1
+EP  - 4
+SN  - 9781538611739
+DO  - 10.1109/FIE.2018.8659262
+N2  - Computer education is in the midst of a major transformation as a result of the rapid emergence of new technologies, intersection of computing with other disciplines and growing interest among students in computing courses. Such transformation prompted educators to redefine the way computing education is delivered and experiment a wide range of learning approaches. One of these approaches is the integration of hardware prototyping platforms such as Arduino, Raspberry Pi and Intel Internet of Things as part of project-based learning. These platforms have become in recent years instrumental tools for improving students' learning process and promoting proactive thinking. The aim of this study is to investigate the usefulness of integrating low cost open-source hardware platforms into engineering and computer science courses. In particular, we explore the use of an experiential learning approach using these kits for improving the students' learning experience in computer science and engineering courses. Throughout this paper, we discuss the outcome of our investigation and provide insights on how to make classrooms more experiential using the hardware prototyping paradigm.
+ER  - 
+TY  - JOUR
+T1  - Teaching on Demand: an HPC Experience
+A1  - Carratala-Saez, Rocio
+A1  - Iserte, Sergio
+A1  - Catalan, Sandra
+Y1  - 2019///
+KW  - Computational Cluster
+KW  - Parallel Distributed Computing
+KW  - Raspberry Pi
+KW  - System Administration
+KW  - Undergrad Teaching
+JF  - Proceedings of EduHPC 2019: Workshop on Education for High Performance Computing - Held in conjunction with SC 2019: The International Conference for High Performance Computing, Networking, Storage and Analysis
+SP  - 32
+EP  - 41
+SN  - 9781728159751
+DO  - 10.1109/EduHPC49559.2019.00010
+N2  - In this work we present the experience of the course 'Build your own supercomputer with Raspberry Pi', offered as a non-mandatory workshop with the purpose of bringing High Performance Computing (HPC) closer to bachelor students of Universitat Jaume I (UJI, Spain). The intention of the course is twofold; on the one hand, we target towards increasing the knowledge of Computer Science and Engineering students about the labor performed by the HPC community; on the other hand, we aim to create a personalized experience for each student by ful?lling their curiosity about the topics presented and discussed in the class. In order to evaluate the impact and learning, we analyze two surveys ?lled out by the students respectively before and after the course, where HPC interest and knowledge are exposed.
+ER  - 
+TY  - JOUR
+T1  - Incorporating a raspberry Pi into a computer information systems initial course
+A1  - Cooper, Gina
+Y1  - 2017///
+KW  - Computer science
+KW  - Introductory course
+KW  - Programming concepts
+KW  - Raspberry Pi
+JF  - Proceedings - Frontiers in Education Conference, FIE
+VL  - 2017-Octob
+SP  - 1
+EP  - 5
+SN  - 9781509059195
+DO  - 10.1109/FIE.2017.8190737
+N2  - The Raspberry Pi is a small computer useful for teaching students basic computer knowledge. This paper discusses the integration of the Raspberry Pi in an introductory information systems course. Previously, the initial course in the College of Engineering and Information Sciences was a general applications course not focused on computer science or engineering. A new course was developed integrating the raspberry pi with hands on labs to improve student engagement. The initial course should be exciting and motivating to students. By creating a new course with interesting labs that integrate the Raspberry Pi, higher pass rates and student satisfaction will be achieved.
+ER  - 
+TY  - JOUR
+T1  - Robotics as multi-disciplinary learning: A summer course perspective
+A1  - Ferreira, N. M.Fonseca
+A1  - Freitas, E. D.C.
+Y1  - 2018///
+KW  - Education in robotics
+KW  - International trends in educational robotics
+KW  - Low-cost mobile robot
+KW  - ROS
+KW  - Robotics competitions
+PB  - IEEE
+JF  - Proceedings - IEEE 16th International Conference on Industrial Informatics, INDIN 2018
+SP  - 536
+EP  - 543
+SN  - 9781538648292
+DO  - 10.1109/INDIN.2018.8471967
+N2  - This paper describes a two-month summer intensive course designed to introduce participants with a hands-on technical craft on robotics and to acquire experience in the lowlevel details of embedded systems. Attendants started this course with a brief introduction to robotics; learned to draw, design and create a personalized 3D structure for their mobile robotic platform and developed skills in embedded systems. They were familiarize with the practices used in robotics, learning to connect all sensors and actuator, developing a typical application on differential kinematic using Arduino, exploring ROS features under Raspberry Pi environment and Arduino - Raspberry Pi communication. Different paradigms and some real applications and programming were addressed on the topic of Artificial Intelligence. This paper describes not just the concept, layout and methodology used on RobotCraft 2017 but also presents the participants knowledge background and their overall opinions, leading to focus on lessons learned and suggestions for future editions.
+ER  - 
+TY  - CONF
+T1  - The Impact of Incorporating Hands-on Raspberry Pi Projects with Undergraduate Education in Boosting Students' Interest in Scientific/Engineering Majors and Encouraging Women and Minorities to Advance their Integration in Practical Fields BT - 2019 IEEE L
+A1  - Hallak, Hussam A
+A1  - Ibrahim, Soad
+A1  - Low, Christy
+A1  - El Mesalami, Ayman
+Y1  - 2019///
+KW  - Curricula
+KW  - Embedded systems
+KW  - Students
+PB  - Institute of Electrical and Electronics Engineers Inc.
+JF  - 2019 IEEE Learning With MOOCS (LWMOOCS)
+T3  - Proceedings of 2019 IEEE Learning With MOOCS, LWMOOCS 2019
+SP  - 7
+EP  - 14
+CY  - Old Doinion University, Comuter Science Department, Norfolk, United States
+DO  - 10.1109/LWMOOCS47620.2019.8939622
+UR  - http://dx.doi.org/10.1109/LWMOOCS47620.2019.8939622
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - By design, the computer science curriculum for undergraduate students in the United States does not include enough hands-on courses such as microcontrollers and embedded systems. It is difficult for students, especially the Distance Learners (DL) to appreciate the power of computer science as a problem-solving field without real-world experiments. Furthermore, students in computer science may drop-out or turn away from the field because it does not offer an opportunity for them to communicate with each other during online/traditional labs. In this paper, an active learning project-based approach in online/traditional computer science courses is introduced to make the courses' material more attractive to students from minorities. Students obtain a deeper knowledge through active exploration of real-world problems. Students will enjoy the challenges they face when developing solutions. This paper studies the impact of hands-on project-based learning using Raspberry Pi on students taking online and face-To-face computer science courses at Old Dominion University. 2019 IEEE.
+ER  - 
+TY  - CONF
+T1  - An Energy-Efficient Secure Adaptive Cloud-of-Things (CoT) Framework to Facilitate Undergraduate STEM Education
+A1  - He, Jing Selena
+A1  - Han, Meng
+A1  - Bobbie, Patrick O.
+Y1  - 2018/09//
+PB  - ACM
+JF  - Proceedings of the 19th Annual SIG Conference on Information Technology Education
+SP  - 123
+EP  - 128
+CY  - New York, NY, USA
+SN  - 9781450359542
+DO  - 10.1145/3241815.3241865
+UR  - https://dl.acm.org/doi/10.1145/3241815.3241865
+N2  - This paper presents an adaptive framework (web application) that supports secure, end-to-end Internet of Things (IoT) sensing architecture, which includes loosely coupled set of components with well-defined interfaces that can be adapted to a wide range of uses. Moreover, the framework was adopted in a Computer Science (CS) Fog computing course to get formal evaluation by undergraduate students. IoT has emerged as a new network paradigm, involving connecting physical world through sensors (temperature, humidity, intensity, etc.) to the Internet, to provide opportunities for building intelligent systems and applications. There are a few notable characteristics of today’s IoT systems that serve as impediments for greater adoption. First, the common, well-documented platform that spans end-to-end, and which can cover a multitude of practical uses, is still missing. The second impediment is the lack of standard energy-efficient platform. Third, with the growing deployment of IoT devices, the attack vector for possible exploitation increases, which dictates an increase in the ongoing cost to ensure Confidentiality-Integrity-Availability triad. In this project, we propose the solution to address these impediments. The proposed framework makes it economical and easy to adapt to (e.g. to learn and to support). The next benefit comes with the use of environment harvesting equipment (solar cell, in-line hydro-generators, thermoelectric cells, etc.) and use of energy efficient coding methods, including security and communication provisions. Overall, the project successfully integrates Amazon Cloud technologies, Raspberry-Pi and Arduino embedded systems using energy-harvesting technologies, secure communication using government standards, and highly available network of nodes using wireless technology into a Cloud-of-Things (CoF).The methodology allows a myriad IoT devices connected to the Internet to be easily monitored and manipulated through the implemented web application. On the other hand, since few dedicated IoT courses are currently offered, most Science, technology, Engineering, and Mathematics (STEM) students will have limited or no exposure to IoT development until after graduation, and inadequately prepared in IoT development to enter into the workforce. Therefore, the implemented framework was introduced in a CS special topic course to get comments and formal evaluations from undergraduate STEM students. An outline of a well-developed courseware is presented in the paper. The courseware is evaluated through survey questions. The majority of the students provided positive feedback and enjoyed the IoT framework.
+ER  - 
+TY  - CONF
+T1  - Undergraduate Assembly Language Instruction Sweetened with the Raspberry Pi
+A1  - Kawash, Jalal
+A1  - Kuipers, Andrew
+A1  - Manzara, Leonard
+A1  - Collier, Robert
+Y1  - 2016///
+KW  - assembly language
+KW  - computer science education
+KW  - hardware
+KW  - programming
+KW  - raspberry pi
+KW  - software interface
+PB  - ACM Press
+JF  - Proceedings of the 47th ACM Technical Symposium on Computing Science Education - SIGCSE '16
+SP  - 498
+EP  - 503
+CY  - New York, New York, USA
+SN  - 9781450336857
+DO  - 10.1145/2839509.2844552
+UR  - http://dl.acm.org/citation.cfm?doid=2839509.2844552
+N2  - It is widely recognized that motivating students in an undergraduate assembly language course is a tremendous challenge, principally because of the perception that the subject matter is both difficult and tedious. The Raspberry Pi is a small and inexpensive single-board computer that was created for educational purposes, and in this paper we describe how we successfully incorporated this device into the curriculum of an undergraduate assembly language course. We describe, in detail, the objectives for this course and the dedicated lab that uses the Raspberry Pi as an embedded device, and then evaluate the effectiveness of our approach. Our findings (obtained by exploring changes in student performance and examining the results of an engagement/enjoyment survey) strongly indicate that the introduction of the Raspberry Pi was well received by the students and contributed positively to their learning outcomes.
+ER  - 
+TY  - JOUR
+T1  - CS0: Introducing computing with raspberry pis
+A1  - Krupp, Brian
+A1  - Watkins, Andrew
+Y1  - 2019///
+KW  - CS0
+KW  - Introduction to Computing
+KW  - Raspberry Pi
+JF  - SIGCSE 2019 - Proceedings of the 50th ACM Technical Symposium on Computer Science Education
+SP  - 832
+EP  - 838
+SN  - 9781450358903
+DO  - 10.1145/3287324.3287488
+N2  - This paper presents our experience implementing a newly designed introduction to computing course for first year undergraduate students. The redesigned course focuses on the use of Raspberry Pi microcomputers as a common computing platform in order to encourage student experimentation and fun in a relatively low-cost environment. The course we describe represents a departure at our university from a traditional first-semester introduction to computing which emphasized foundational technical and mathematical skills but less exploration of the field of computing in a more wholistic manner. Our new course focuses on exposure to computing through experimentation. Additionally, it emphasizes community building among the students as well as affording them the opportunity to bring their creativity to bear in a final project showcase. As a result, the course is proving to be attractive not just to traditional computing majors but to a wider swath of the university community. This paper describes the topics selected in the redesign of the course, a summary of the labs involved, a discussion of assignments, and a description of the final project process. We discuss feedback received from students and the overall perception of the course among students and faculty. We also reflect on our experiences from redesigning the course and provide advice for those wishing to adopt a similar introductory course.
+ER  - 
+TY  - CONF
+T1  - Portable Parallel Computing with the Raspberry Pi
+A1  - Matthews, Suzanne J
+A1  - Adams, Joel C
+A1  - Brown, Richard A
+A1  - Shoop, Elizabeth
+Y1  - 2018/02//
+KW  - Curricula
+KW  - Distributed computer systems
+KW  - Education
+KW  - Education computing
+KW  - Parallel processing systems
+KW  - Students
+KW  - Teaching
+PB  - ACM
+JF  - Proceedings of the 49th ACM Technical Symposium on Computer Science Education
+VL  - 2018-Janua
+T3  - SIGCSE 2018 - Proceedings of the 49th ACM Technical Symposium on Computer Science Education
+SP  - 92
+EP  - 97
+CY  - New York, NY, USA
+SN  - 9781450351034
+DO  - 10.1145/3159450.3159558
+UR  - http://dx.doi.org/10.1145/3159450.3159558
+UR  - https://dl.acm.org/doi/10.1145/3159450.3159558
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - With the requirement that parallel distributed computing (PDC) topics be covered in the core computer science curriculum, educators are exploring new ways to engage students in this area of computing. In this paper, we discuss the use of the Raspberry Pi single-board computer (SBC) to provide students with hands-on multicore learning experiences. We discuss how the authors use the Raspberry Pi to teach parallel computing, and present assessment results that indicate such devices are effective at achieving CS2013 PDC learning outcomes, as well as motivating further study of parallelism. We believe our results are of significant interest to CS educators looking to integrate parallelism in their classrooms, and support the use of other SBCs for teaching parallel computing. 2018 Association for Computing Machinery.
+ER  - 
+TY  - CHAP
+T1  - Teaching of IA-32 Assembly Language Programming Using Intel® Galileo
+A1  - Phang, Tan Chee
+A1  - Hashim, Shaiful Jahari B
+A1  - Latiff, Nurul Adilah Bt. Abdul
+A1  - Rokhani, Fakhrul Zaman
+Y1  - 2017///
+KW  - Computer aided instruction
+KW  - Computer architecture
+KW  - Computer programming
+KW  - Curricula
+KW  - E-learning
+KW  - Elementary particles
+KW  - Integrated circuit design
+KW  - Students
+KW  - System-on-chip
+PB  - Springer Verlag
+JF  - 2017 SETE 2017: Emerging Technologies for Education
+VL  - 10676 LNCS
+T3  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+SP  - 245
+EP  - 251
+CY  - University Putra Malaysia, Serdang; 43400, Malaysia
+SN  - 03029743
+DO  - 10.1007/978-3-319-71084-6_27
+UR  - http://dx.doi.org/10.1007/978-3-319-71084-6_27
+UR  - http://link.springer.com/10.1007/978-3-319-71084-6_27
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - Most universities are still using microprocessor training board that equipped with Intel 8086 to introduce students about assembly language and computer architecture due to its popularity and availability. The Intel 8086 is the first x86 microprocessor, it is no longer suitable to introduce students to the modern x86 architecture. A new microprocessor that featured modern architecture design is needed to maintain the competency of university students to keep pace with the fast advancing computer technology. Intel Galileo is a single board computer board that equipped with Intel Quark X1000 SoC. We successfully developed new approach for programming the device using assembly language. Supporting lab materials, example codes, macros, and procedures are developed to incorporate the Intel Galileo board into the laboratory experiments design for microprocessor course. The proposed laboratory experiments allow undergraduate students to learn IA-32 instruction sets and protected mode programming. The results from pre-post-test and quantitative survey shows that Intel Galileo board is effective to support the learning of the IA-32 assembly language and computer architecture. Springer International Publishing AG 2017.
+ER  - 
+TY  - JOUR
+T1  - Enhancing Students' Learning Experience via Low-Cost Network Laboratories
+A1  - Slamnik-Krijestorac, Nina
+A1  - Bosmans, Stig
+A1  - Hellinckx, Peter
+A1  - Marquez-Barja, Johann M
+Y1  - 2019///
+KW  - Computer aided instruction
+KW  - Costs
+KW  - File organization
+KW  - Laboratories
+KW  - Learning systems
+KW  - Students
+PB  - Institute of Electrical and Electronics Engineers Inc.
+JF  - IEEE Communications Magazine
+VL  - 57
+IS  - 11
+SP  - 34
+EP  - 40
+CY  - University of Antwerp and Imec, Belgium
+DO  - 10.1109/MCOM.001.1900233
+UR  - http://dx.doi.org/10.1109/MCOM.001.1900233
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - This article presents a low-cost laboratory that has been designed and developed to enhance learning experience and help students gain skills and knowledge in the field of distributed systems. In order to build a comprehensive distributed file system, we used the laboratory consisting of 40 card-sized Raspberry Pi devices, with the accent on stability, scalability, and low cost. Aiming to assess the impact of this new learning environment on the learning process and its outcomes, we surveyed students following the completion of three project stages during the 17 laboratory exercises in one academic year, ensuring that we maintained the same subjects of study during the experiments. Supported by interesting answers on various sets of questions, we provide a valuable insight into students' experience, obstacles and observations during system's implementation. This particular insight paves the way toward further laboratory improvement, adopting this approach in other courses related to ours, and encouraging teachers to embrace similar practice regardless of the field of education. 1979-2012 IEEE.
+ER  - 
+TY  - CONF
+T1  - Media Literacy as a By-Product of Collaborative Video Production by CS Students
+A1  - Vasilchenko, Anna
+A1  - Green, David Philip
+A1  - Qarabash, Haneen
+A1  - Preston, Anne
+A1  - Bartindale, Tom
+A1  - Balaam, Madeline
+Y1  - 2017/06//
+KW  - Education computing
+KW  - Engineering education
+KW  - Engineering research
+KW  - Scaffolds
+KW  - Students
+KW  - Teaching
+KW  - Video recording
+PB  - ACM
+JF  - Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education
+VL  - Part F1286
+T3  - Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE
+SP  - 58
+EP  - 63
+CY  - New York, NY, USA
+SN  - 9781450347044
+DO  - 10.1145/3059009.3059047
+UR  - http://dx.doi.org/10.1145/3059009.3059047
+UR  - https://dl.acm.org/doi/10.1145/3059009.3059047
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - Understanding, promoting, and teaching media literacy is an important societal challenge. STEM educators are increasingly looking to incorporate 21stcentury skills such as media literacy into core subject education. In this paper we investigate how undergraduate Computer Science (CS) students can learn media literacy as a by-product of collaborative video tutorial production. The paper presents a study of 34 third-year CS undergraduates who, as part of their learning, were each asked to produce three video tutorials on Raspberry Pi programming, using a collaborative video production tool for mobile phones (Bootlegger). We provide results of both quantitative and qualitative analysis of the production process and resulting video tutorials, and conclude that the student cohort demonstrated a clear development of media literacy skills. The paper's contribution is twofold. First, we add to the understanding of how the use of mobile collaborative video production technology by non-professionals can help them learn to create meaningful media messages with little scaffolding. Second, we present an alternative pedagogical approach that can help CS students acquire 21stcentury skills such as media literacy.
+ER  - 
+TY  - CONF
+T1  - A low cost laboratory for enhanced electrical engineering education
+A1  - wa Maina, Ciira
+A1  - Muhia, Asaph
+A1  - Opondo, James
+Y1  - 2016/05//
+KW  - Cost engineering
+KW  - Costs
+KW  - Digital signal processing
+KW  - Laboratories
+KW  - Students
+PB  - IEEE
+JF  - 2016 IST-Africa Week Conference
+T3  - 2016 IST-Africa Conference, IST-Africa 2016
+SP  - 1
+EP  - 8
+CY  - Dedan Kimathi University of Technology, P.O. BOX657-10100, Nyeri, KenyaJomo Kenyatta University of Agriculture and Technology, P.O. Box 62, Nairobi; 000 - 00200, Kenya
+SN  - 978-1-9058-2455-7
+DO  - 10.1109/ISTAFRICA.2016.7530651
+UR  - http://dx.doi.org/10.1109/ISTAFRICA.2016.7530651
+UR  - http://ieeexplore.ieee.org/document/7530651/
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - This paper presents low cost laboratories that aim to enhance the teaching of electrical and electronic engineering. The laboratories have been designed and developed based on the Raspberry Pi microprocessor system and are aimed at exposing students to the integration of software and hardware in electrical engineering in addition to ensuring that students appreciate the theoretical foundations of areas such as digital signal processing and instrumentation. The paper describes the laboratory exercises developed. Feedback from students was collected and analysed. The positive response shows the effectiveness of this approach in teaching electrical and electronic engineering. 2016 IIMC.
+ER  - 
+TY  - CONF
+T1  - A triumvirate blended learning method for embedded computational devices used in the Internet of Things: A case study
+A1  - Wachira, Kinyua
+A1  - Absaloms, Heywood Ouma
+A1  - Mbuthia, Jackson Mwangi
+Y1  - 2017/11//
+KW  - Computation theory
+KW  - Developing countries
+KW  - Engineering education
+KW  - Information systems
+KW  - Information use
+KW  - Internet of things
+KW  - Iterative methods
+KW  - Knowledge management
+KW  - Microcontrollers
+KW  - Students
+PB  - IEEE
+JF  - 2017 2nd International conferences on Information Technology, Information Systems and Electrical Engineering (ICITISEE)
+VL  - 2018-Janua
+T3  - Proceedings - 2017 2nd International Conferences on Information Technology, Information Systems and Electrical Engineering, ICITISEE 2017
+SP  - 495
+EP  - 496
+CY  - Department of Electrical and Information Engineering, University of Nairobi, P.O. Box 30197-00100, Nairobi, Kenya
+SN  - 978-1-5386-0658-2
+DO  - 10.1109/ICITISEE.2017.8285557
+UR  - http://ieeexplore.ieee.org/document/8285557/
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - With rapid advances in the emerging and pervasive field of the Internet of Things, electrical and electronic engineering students need a robust grasp of embedded computational device principles to make a proper, appreciable and relevant contribution. This necessity is more pertinent in developing countries that are technologically lagging behind their developed counterparts. This paper analyses the teaching modalities and models used to teach embedded device theory. A new triumvirate (or three person group) hybrid blended learning model is proposed and used to instruct mid-level students in the Electrical and Information Engineering Department of the University of Nairobi; on two embedded device types: a custom board using an AVR Atmega88A series micro-controller and the Raspberry Pi single-board computer. Student circuit design ability and programming confidence prior and subsequent to the proposed method were used to assess the efficacy of the triumvirate model. From the preliminary iteration of the learning model program, it was found that the model is a viable method of ensuring persistent knowledge transfer of embedded design concepts and can be developed further. 2017 IEEE.
+ER  - 
+TY  - CONF
+T1  - Implementing a cross-curricular digital project into a PGCE computer science initial teacher education course
+A1  - Wilkinson, Carl
+Y1  - 2017/09//
+KW  - Computer peripheral equipment
+KW  - Computer science
+KW  - Curricula
+KW  - E-learning
+KW  - Education computing
+KW  - Intelligent systems
+KW  - Personnel training
+KW  - Problem solving
+KW  - Teaching
+PB  - IEEE
+JF  - 2017 Intelligent Systems Conference (IntelliSys)
+VL  - 2018-Janua
+T3  - 2017 Intelligent Systems Conference, IntelliSys 2017
+SP  - 751
+EP  - 756
+CY  - School of Education, Leeds Beckett University, Leeds, United Kingdom
+SN  - 978-1-5090-6435-9
+DO  - 10.1109/IntelliSys.2017.8324213
+UR  - http://dx.doi.org/10.1109/IntelliSys.2017.8324213
+UR  - http://ieeexplore.ieee.org/document/8324213/
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - The aim of this research is to open discourse over the matters, processes and skills of the subject of Computer Science in the new English National Curriculum of 2013. The challenge for graduate computer scientists enrolled onto a Post Graduate Certificate of Education Initial Teacher Training course in the North of England was to develop a cross-curricular digital technology project using Raspberry Pi hardware and peripherals that could sense and record data to enhance pedagogy in any other English National Curriculum subject. The results of the research were unexpected and highlight the need for "soft skill" development within the Computer Science curriculum. 2017 IEEE.
+ER  - 
+TY  - CONF
+T1  - Case Study: Using Project Based Learning to Develop Parallel Programing and Soft Skills
+A1  - Younis, Awad A
+A1  - Sunderraman, Rajshekhar
+A1  - Metzler, Mike
+A1  - Bourgeois, Anu G
+Y1  - 2019/05//
+KW  - Application programming interfaces (API)
+KW  - C (programming language)
+KW  - Memory architecture
+KW  - Multicore programming
+KW  - Parallel processing systems
+KW  - Parallel programming
+KW  - Software architecture
+KW  - Students
+PB  - IEEE
+JF  - 2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+T3  - Proceedings - 2019 IEEE 33rd International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2019
+SP  - 304
+EP  - 311
+CY  - Georgia State University, Atlanta; GA, United States
+SN  - 978-1-7281-3510-6
+DO  - 10.1109/IPDPSW.2019.00059
+UR  - http://dx.doi.org/10.1109/IPDPSW.2019.00059
+UR  - https://ieeexplore.ieee.org/document/8778328/
+N1  - Compilation and indexing terms, Copyright 2020 Elsevier Inc.
+N2  - In today's environment, where every computer, including cell phones, are multicore, it is essential that students develop parallel programming skills. It remains a challenge to develop effective techniques for teaching parallel programing skills. Another challenge is finding time within already packed lectures to cover additional material. To that end, we investigate the effectiveness of using Project Based Learning (PBL) to teach parallel programming skills early in the curriculum by developing and incorporating a PBL module into CSc 3210 (Computer Organization and Programming). This is a core course taken by all computer science majors and is a prerequisite to many of our senior-level classes. In our case study, 124 students are organized into 26 diverse groups, with four or five students per group, and assigned five project assignments, each of two-weeks duration. Given a Raspberry PI, students will explore its multicore architecture and create programs for shared memory parallelism using OpenMP and C language. Our results show that incorporating this PBL module has a significant and direct effect on the student's growth in parallel programming skills. As a side benefit, we also show that there is a direct improvement on a student's personal growth in terms soft skills, which is essential in the professional development and success in the workplace. By having students experience PBL in an early class, close to the midpoint of the academic program, it can serve as a mini-capstone project. Furthermore, students can collaboratively learn by themselves (through teamwork) and apply the fundamentals of parallel programming skills without the need for separate lectures, labs, or workshops. 2019 IEEE.
+ER  - 
