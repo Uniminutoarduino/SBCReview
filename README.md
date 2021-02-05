@@ -18,8 +18,20 @@ The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews 
 
 - *VOSViewer*: This folder contains the files for VOSViewer (1.6.14) which have used for the cluster analysis. The software is available at [https://www.vosviewer.com/](https://www.vosviewer.com) 
 
-- *Python Scripts*: It contains the designed algorithms to extract the information of the Crossref API in terms of publications per years and top cited authors. 
+- *Python Scripts*: It contains the designed algorithms to extract the information of the Crossref API in terms of publications per years, top cited authors, and type of article (journal, conference proceedings, or book chapter). 
 
 ## Python Scripts
+
+The scripts were degined in Python (V3.8). The following packages are needed in order to run them:
+
+- Crossrefapi (v1.5.0): Library with functions to iterate through the Crossref API. [https://pypi.org/project/crossrefapi/1.0.3/](https://pypi.org/project/crossrefapi/1.0.3/)
+- Matplotlib (v3.3.0 or higher): Comprehensive library for creating static, animated, and interactive visualizations in Python. [https://matplotlib.org/](https://matplotlib.org/)
+- Numpy (v1.20) : fundamental package for scientific computing with Python. [https://numpy.org/](https://numpy.org/)
+
+To run the scripts, include them in a folder and install the previous packages. The scripts need the DOIs of the studies in a txt file (DOIs.txt). The scripts available are the following:
+
+- Years: Extract the number of studies per year.
+- Citations: Extract the number cites per article and it generates a list of the studies with these cites.
+- Article Type: Extract the type of article in the mentiones categories (journal, conference proceedings, or book chapter)
 
 ## Credit
