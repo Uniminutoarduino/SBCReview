@@ -4,7 +4,9 @@
 
 **Description:** These are the supplementary materials and dataset for the Systematic Literature Review (SLR) on SBCs in engineering and computer science education. 
 
-**Purpose:** This study aims to analyze how the SBCs are employed in engineering and computer science education and what educational outcomes are derived from their usage.
+**Purpose:** This study aims to analyze how the SBCs are employed in engineering and computer science education and what educational outcomes are derived from their usage during the period 2010-2020.
+
+The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guideliness available at [http://www.prisma-statement.org/](http://www.prisma-statement.org/) 
 
 ## Files and Folder description
 
