@@ -16,7 +16,7 @@ The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews 
 
 - *Figures*: In this folder are located the figures for the SLR. 
 
-- *VOSViewer*: This folder contains the files for VOSViewer (1.6.14) which have been used for the cluster analysis. The software is available at [https://www.vosviewer.com/](https://www.vosviewer.com) 
+- *VOSViewer*: This folder contains the files for VOSViewer (1.6.14) which have been used for the cluster analysis (map based on bibliometric data). The software is available at [https://www.vosviewer.com/](https://www.vosviewer.com) 
 
 - *Python Scripts*: It contains the designed algorithms to extract the information of the Crossref API in terms of publications per year, top-cited authors, and type of article (journal, conference proceedings, or book chapter). 
 
