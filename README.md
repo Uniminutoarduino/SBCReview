@@ -20,6 +20,8 @@ The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews 
 
 - *Python Scripts*: It contains the designed algorithms to extract the information of the Crossref API in terms of publications per year, top-cited authors, and type of article (journal, conference proceedings, or book chapter). 
 
+- *Studies qualitative Synthesis*: selected studies (n=16) for stage 2 (qualitative synthesis) in the SLR. The document is classified by educational methodologies, research approach, participants, tertiary level, and learning outcomes. 
+
 ## Python Scripts
 
 The scripts were designed in Python (v3.8). The following packages are needed in order to run them:
