@@ -26,7 +26,6 @@ The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews 
 
 The scripts were designed in Python (v3.8). The following packages are needed in order to run them:
 
-- Crossrefapi (v1.5.0): Library with functions to iterate through the Crossref API. [https://pypi.org/project/crossrefapi/1.0.3/](https://pypi.org/project/crossrefapi/1.0.3/)
 - Matplotlib (v3.3.0 or higher): Comprehensive library for creating static, animated, and interactive visualizations in Python. [https://matplotlib.org/](https://matplotlib.org/)
 - Numpy (v1.20) : Fundamental package for scientific computing with Python. [https://pypi.org/project/numpy/](https://pypi.org/project/numpy/)
 
