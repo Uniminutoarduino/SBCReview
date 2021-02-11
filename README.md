@@ -46,4 +46,4 @@ This work has been possible with the efforts of the following persons:
 -
 -
 
-Thank you for your interest in this research :wink:
+**Thank you for your interest in this research :wink:**
