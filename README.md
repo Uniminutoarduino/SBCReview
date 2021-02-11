@@ -34,8 +34,8 @@ The scripts were designed in Python (v3.8). The following packages are needed in
 To run the scripts, include them in a folder and install the previous packages. The scripts need the DOIs of the studies in a txt file (DOIs.txt). The designed scripts are the following:
 
 - Years: Extract the number of studies per year. To run this script, please follow these instructions:
-  - Run the script ExtractYears.py. This file extract the publication years per article and save them in a .txt file.
-  - Please, fix some corrupted entries in the previous .txt file. Then, run the file Years.py to plot the numper of publications per year.
+  - Run the script ExtractYears.py. This file extract the publication years per article and it will save them in the file "YearsPublications.txt" file.
+  - Please, fix some corrupted entries in the previous .txt file. Then, run the file Years.py to plot the number of publications per year.
 - Citations: Extract the number of cites per article and it generates a list of the studies with these cites.
 - Article Type: Extract the type of article in the mentioned categories (journal, conference proceedings, or book chapter).
 
@@ -43,4 +43,4 @@ To run the scripts, include them in a folder and install the previous packages. 
 This work has been possible with the efforts of the following persons:
 
 
-Thank you for your interest in this research :)
+Thank you for your interest in this research :smiley:
