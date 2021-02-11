@@ -30,6 +30,7 @@ The scripts were designed in Python (v3.8). The following packages are needed in
 
 - Matplotlib (v3.3.0 or higher): Comprehensive library for creating static, animated, and interactive visualizations in Python. [https://matplotlib.org/](https://matplotlib.org/)
 - Numpy (v1.20) : Fundamental package for scientific computing with Python. [https://pypi.org/project/numpy/](https://pypi.org/project/numpy/)
+- urllib3 : Powerful, user-friendly HTTP client for Python. https://pypi.org/project/urllib3/
 
 To run the scripts, include them in a folder and install the previous packages. The scripts need the DOIs of the studies in a txt file (DOIs.txt). The designed scripts are the following:
 
@@ -42,5 +43,7 @@ To run the scripts, include them in a folder and install the previous packages. 
 ## Credit
 This work has been possible with the efforts of the following persons:
 
+-
+-
 
-Thank you for your interest in this research :smiley:
+Thank you for your interest in this research :wink:
