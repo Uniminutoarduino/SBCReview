@@ -9,7 +9,7 @@ import time
 import operator
 countpapers=0 #Variable to count papers
 #Block to open DOIs
-f=open('DOIs.txt','r') #Abrir archivo DOI.txt en caso contrario crear archivo con DOI
+f=open('DOIs.txt','r') #File with DOIs of the articles.
 DOIS=f.readlines()
 f.close()
 #Block for CrossRef Query
