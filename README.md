@@ -8,6 +8,10 @@
 
 **SBCs included:** Raspberry Pi, Beaglebone, Beagleboard, Odroid, Intel Edison, Orange Pi, Tinker Board, and Intel Galileo.
 
+**Tertiary Levels:** Undergraduate, Master, PhD. In addition, some proposals for persons with disabilities were include since they can be use in any of the mentioned tertiary levels.
+
+**Scope:** Engineering and Computer Science Education.
+
 The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines available at [http://www.prisma-statement.org/](http://www.prisma-statement.org/) 
 
 ## Files and Folder description
