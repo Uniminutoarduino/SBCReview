@@ -6,7 +6,7 @@
 
 **Purpose:** This study aims to analyze how the SBCs are employed in engineering and computer science education and what educational outcomes are derived from their usage during the period 2010-2020.
 
-**SBCs included:** Raspberry Pi, Beaglebone, Beagleboard, Odroid, Intel Edison, Orange Pi, Tinker Board, and Intel Galileo.
+**Included SBCs :** Raspberry Pi, Beaglebone, Beagleboard, Odroid, Intel Edison, Orange Pi, Tinker Board, and Intel Galileo.
 
 **Tertiary Levels:** Undergraduate, Master, and PhD. In addition, some proposals for persons with disabilities were include since they can be use in any of the mentioned tertiary levels.
 
