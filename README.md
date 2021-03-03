@@ -30,6 +30,8 @@ The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews 
 
 - *List of studies*: The file contains the attributes (title, author, main topic, tertiary level, DOI, etc.) of each one of the studies selected for the stages in the review (overall analysis (n=154) and qualitative synthesis (n=16)).
 
+- *State of art (Areas)*: State of art with the selected works by areas (Laboratories and e-learning, computing education, robotics, Internet of Things (IoT), and persons with disabilities). 
+
 ## Python Scripts
 
 The scripts were designed in Python (v3.8). The following packages are needed in order to run them:
