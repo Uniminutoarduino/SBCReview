@@ -14,7 +14,7 @@
 
 The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines available at [http://www.prisma-statement.org/](http://www.prisma-statement.org/) 
 
-## Files and Folder description
+## Files and Folders description
 
 - The folder *.RIS(Dataset)* contains the .RIS files for the different stages in the review. In the files "Engineering_VillageRIS1-6" is the totality of the identified studies which have been retrieved through the Elsevier tool (Engineering Village). Likewise, the files "SynthesisGroup" and "QualitativeSynthesis" include the selected studies for stage one (overall analysis-n=154) and stage two (qualitative synthesis-n=16) in the SLR. These files are ready to be incorporated in Mendeley. 
 
