@@ -26,7 +26,7 @@ The review followed the PRISMA(Preferred Reporting Items for Systematic Reviews 
 
 - *Python Scripts*: It contains the designed algorithms to extract the information of the Crossref API in terms of publications per year, top-cited authors, and type of article (journal, conference proceedings, or book chapter). 
 
-- *Studies qualitative Synthesis F*: selected studies (n=16) for stage 2 (qualitative synthesis) in the SLR. The document is classified by educational methodologies, research approach, participants, tertiary level, and learning outcomes. 
+- *Studies qualitative Synthesis F*: Selected studies (n=16) for stage 2 (qualitative synthesis) in the SLR. The document is classified by educational methodologies, research approach, participants, tertiary level, and learning outcomes. 
 
 - *List of studies*: The file contains the attributes (title, author, main topic, tertiary level, DOI, SBC, etc.) of each one of the studies selected for the stages in the review (overall analysis (n=154) and qualitative synthesis (n=16)).
 
