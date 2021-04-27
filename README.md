@@ -44,7 +44,7 @@ To run the scripts, include them in a folder and install the previous packages. 
 
 - Years: Extract the number of studies per year. To run this script, please follow these instructions:
   - Run the script ExtractYears.py. This file extract the publication years per article and it will save them in the file "YearsPublications.txt".
-  - Please, fix some corrupted entries in the previous .txt file. Then, run the file Years.py to plot the number of publications per year.
+  - Please, fix some corrupted entries (empty lines) in the previous .txt file. Then, run the file Years.py to plot the number of publications per year.
 - Citations: Extract the number of cites per article and it generates a list of the studies with these cites.
 - Article Type: Extract the type of article in the mentioned categories (journal, conference proceedings, or book chapter).
 
