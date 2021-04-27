@@ -51,8 +51,8 @@ To run the scripts, include them in a folder and install the previous packages. 
 ## Credit
 This work has been possible with the efforts of the following persons:
 
-- MEd Jonathan Álvarez Ariza: jalvarez@uniminuto.edu
-- MSc Heyson Báez Ramos: heysonbaez@gmail.com
+- MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu
+- MSc. Heyson Báez Ramos: heysonbaez@gmail.com
 
 Engineering Professors
 
