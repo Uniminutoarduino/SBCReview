@@ -54,4 +54,9 @@ This work has been possible with the efforts of the following persons:
 - MEd Jonathan Álvarez Ariza: jalvarez@uniminuto.edu
 - MSc Heyson Báez Ramos: heysonbaez@gmail.com
 
+Engineering Professors
+Program of Technology in Electronics
+Corporación Universitaria Minuto de Dios-UNIMINUTO
+Bogotá, Colombia
+
 **Thank you for your interest in this research :wink:**
