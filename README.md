@@ -52,6 +52,6 @@ To run the scripts, include them in a folder and install the previous packages. 
 This work has been possible with the efforts of the following persons:
 
 - MEd Jonathan Álvarez Ariza: jalvarez@uniminuto.edu
-- MsC Heyson Báez Ramos: heysonbaez@gmail.com
+- MSc Heyson Báez Ramos: heysonbaez@gmail.com
 
 **Thank you for your interest in this research :wink:**
