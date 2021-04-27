@@ -49,7 +49,7 @@ To run the scripts, include them in a folder and install the previous packages. 
 - Article Type: Extract the type of article in the mentioned categories (journal, conference proceedings, or book chapter).
 
 ## Credit
-This work has been possible with the efforts of the following persons:
+This study has been possible with the efforts of the following persons:
 
 - MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu
 - MSc. Heyson Báez Ramos: heysonbaez@gmail.com
